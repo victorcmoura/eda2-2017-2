@@ -1,4 +1,5 @@
-# Algorithms and Data Structures (EDA stands for "Estrutura de Dados e Algoritmos")
+# Algorithms and Data Structures 
+*(EDA stands for "Estrutura de Dados e Algoritmos")*
 
 This repository presents a few useful algorithms that I had contact with in a college subject.
 
